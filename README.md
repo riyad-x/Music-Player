@@ -4,7 +4,7 @@ This is a web-based Music Player that allows users to listen to their favorite s
 
 ## Live Demo
 
-Check out the live version of the project: [Music Player](https://riyad-x.github.io/Music-Player/)
+Check out the live version of the project: [Music Player](https://riyad899.github.io/Music-Player/)
 
 ## Features
 
